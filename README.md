@@ -129,4 +129,4 @@ def rectarea(request):
 ![home page ](https://github.com/Priya-Loganathan/serversideprocessing/assets/121166075/e0fd8896-92a6-4744-a7b4-ccbbd0667e50)
 
 ## Result:
-
+The program for implementing server side processing is completed.
